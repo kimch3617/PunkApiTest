@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">PunkApiTest</string>
+
+    <string name="beer_description">Description: </string>
+    <string name="beer_firstBrewed">First Brewed: </string>
+    <string name="beer_abv">Abv: </string>
+    <string name="beer_ibu">Ibu: </string>
+    <string name="beer_ebc">Ebc: </string>
+    <string name="beer_ph">Ph: </string>
+    <string name="beer_brewers_tips">Brewers Tips: </string>
+    <string name="beer_contributed_by">Contributed by: </string>
+    <string name="buy_beer">BUY</string>
+    <string name="buy_name">Name:</string>
+    <string name="buy_card">Card:</string>
+    <string name="menu_search">검색</string>
+    <string name="empty_list">empty list</string>
+</resources>
